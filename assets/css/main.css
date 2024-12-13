@@ -213,7 +213,10 @@ input, select, textarea {
 				right: 0;
 				width: 100%;
 			}
-
+	#intro h1.subtitle {
+	    font-size: 0.7em;  /* Make it smaller */
+	    font-weight: normal;  /* Optional: make it less bold */
+	}
 	h2 {
 		font-size: 1.75em;
 	}
